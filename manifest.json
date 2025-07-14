@@ -1,0 +1,16 @@
+
+{
+  "name": "Calculadora de Retención",
+  "short_name": "Retención",
+  "start_url": "calculadora_retencion_pwa.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#008000",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
